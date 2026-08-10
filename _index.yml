@@ -1,0 +1,26 @@
+---
+product-family:
+  title: NetApp Console 和 NetApp Console 本地部署
+  lead: NetApp 提供了两种运行其统一存储管理平台的方式，分别是 NetApp Console 和 NetApp Console 本地部署。两者共享相同的基础，但在架构、连接性、功能范围和运营模式上有所不同。
+  summary: NetApp 提供了两种运行其统一存储管理平台的方法：NetApp Console 和 NetApp Console 本地部署。两者有着共同的基础，但在架构、连接性、功能范围和运营模式上有所不同。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: NetApp Console
+    tags: console
+  - title: NetApp Console 本地部署
+    tags: console-local
+  tiles:
+  - title: 了解 NetApp Console 和 NetApp Console 本地部署
+    url: intro-family.html
+    summary: 将 NetApp Console 本地部署与 NetApp Console 进行比较。
+    tags: all, console, console-local
+  - title: NetApp Console
+    url: "../console-family/index.html"
+    summary: 了解 NetApp Console 如何帮助您管理混合云存储环境。
+    tags: console, all
+  - title: NetApp Console 本地部署
+    url: "../console-local-family/index.html"
+    summary: 了解 NetApp Console 本地部署如何从一个安全的控制平面为团队提供本地环境中的智能集群可管理性。
+    tags: console-local, all
